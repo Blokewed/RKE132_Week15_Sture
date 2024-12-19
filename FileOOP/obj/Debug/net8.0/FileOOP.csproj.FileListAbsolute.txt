@@ -1,0 +1,14 @@
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\bin\Debug\net8.0\FileOOP.exe
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\bin\Debug\net8.0\FileOOP.deps.json
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\bin\Debug\net8.0\FileOOP.runtimeconfig.json
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\bin\Debug\net8.0\FileOOP.dll
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\bin\Debug\net8.0\FileOOP.pdb
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\FileOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\FileOOP.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\FileOOP.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\FileOOP.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\FileOOP.dll
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\refint\FileOOP.dll
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\FileOOP.pdb
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\FileOOP.genruntimeconfig.cache
+C:\Users\Kasutaja\source\repos\Week15\FileOOP\obj\Debug\net8.0\ref\FileOOP.dll
